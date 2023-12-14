@@ -9,11 +9,6 @@
 
 <br />
 
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
-
 ![image](https://github.com/Akshaynahar3/Netflix/assets/46554840/c774c92d-2960-4a8a-934e-ae15fa919948)
 ![image](https://github.com/Akshaynahar3/Netflix/assets/46554840/ddf754a0-4c9a-4a65-8794-7b427a637672)
 ![image](https://github.com/Akshaynahar3/Netflix/assets/46554840/c63adeb7-358c-4364-9760-3c479a118634)
