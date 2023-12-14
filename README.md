@@ -14,6 +14,12 @@
   <p align="center">Home Page</p>
 </div>
 
+![image](https://github.com/Akshaynahar3/Netflix/assets/46554840/c774c92d-2960-4a8a-934e-ae15fa919948)
+![image](https://github.com/Akshaynahar3/Netflix/assets/46554840/ddf754a0-4c9a-4a65-8794-7b427a637672)
+![image](https://github.com/Akshaynahar3/Netflix/assets/46554840/c63adeb7-358c-4364-9760-3c479a118634)
+![image](https://github.com/Akshaynahar3/Netflix/assets/46554840/9ec73780-28c8-4a6a-bce3-834fcdea5477)
+![image](https://github.com/Akshaynahar3/Netflix/assets/46554840/4eafd5c8-f23e-4c32-a5a1-ae317fafbc19)
+
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
 ### **Phase 1: Initial Setup and Deployment**
